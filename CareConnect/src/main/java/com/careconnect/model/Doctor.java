@@ -22,6 +22,6 @@ public class Doctor extends AppUser{
 	private String address;
 	private String mobile;
 	private LocalDate dateOfBirth;
-	private String Medicallicensenumber;
+	private String medicalLicenseNumber;
 	private Integer Yearsofexperience;
 }
